@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+    <para>
+        <head>Upgraded German Chocolate Cake</head>
+        <line n="1">Prep Time: <num>45</num> <unit type="time">minutes</unit>  </line>
+        <line n="2">Cook Time: <num>35</num> <unit type="time">minutes</unit>  </line>
+        <line n="3">Total Time: <num>5</num> <unit type="time">hours</unit>, <num>30</num> <unit type="time">minutes</unit> </line>
+        <line n="4">Yield: serves <numRange>10-12</numRange>; <num>2.5</num> <unit type="measurement">cups</unit> filling</line>
+    </para>
+    
+    <para>
+        <subHead>Description</subHead>
+        <line n="1">This show stopping <focus>German chocolate cake </focus>has a gooey <ing>coconut</ing> and <ing>toasted pecan</ing> filling, a dark and super-moist <ing>chocolate</ing> cake, and deliciously creamy <ing>chocolate buttercream</ing> on top!</line>
+    </para>
+    
+    <list name="ingredients">
+        <subHead>Ingredients</subHead>
+        <line n="1"><num>1</num> and <num type="fraction">3/4</num> <unit type="measurement">cups</unit> <ing>all-purpose flour</ing> <link>(spoon &amp; leveled)</link></line>
+        <line n="2"><num type="fraction">3/4</num> <unit type="measurement">cup</unit> <ing>unsweetened natural cocoa powder</ing></line>
+        <line n="3"><num>1</num> and <num type="fraction">3/4</num> <unit type="measurement">cups</unit> <ing>granulated sugar</ing></line>
+        <line n="4"><num>2</num> <unit type="measurement">teaspoons</unit> <ing>baking soda</ing></line>
+        <line n="5"><num>1</num> <unit type="measurement">teaspoon</unit> <ing>baking powder</ing></line>
+        <line n="6"><num>1</num> <unit type="measurement">teaspoon</unit> <ing>salt</ing></line>
+        <line n="7"><num>2</num> <unit type="measurement">teaspoons</unit> <ing>espresso powder</ing> <sideNote>(optional)</sideNote></line>
+        <line n="8"><num type="fraction">1/2</num> <unit type="measurement">cup</unit> <ing>canola or vegetable oil</ing></line>
+        <line n="9"><num>2</num> <ing>large eggs</ing>, at room temperature</line>
+        <line n="10"><num type="fraction">3/4</num> <unit type="measurement">cup</unit> <ing>full fat sour cream</ing>, at room temperature</line>
+        <line n="11"><num type="fraction">1/2</num> <unit type="measurement">cup</unit> <ing>buttermilk</ing>, at room temperature</line>
+        <line n="12"><num>2</num> <unit type="measurement">teaspoons</unit><ing> pure vanilla extract</ing></line>
+        <line n="13"><num type="fraction">1/2</num> <unit type="measurement">cup</unit> <ing>hot water or coffee</ing></line>
+    </list>
+    
+    <list name="coconut pecan filling">
+        <subHead>Coconut Pecan Filling</subHead>
+        <line n="1"><num type="fraction">1/2</num> <unit type="measurement">cup</unit> <ing>unsalted butter</ing></line>
+        <line n="2"><num>1</num> <unit type="measurement">cup</unit> packed <ing>light or dark brown sugar</ing></line>
+        <line n="3"><num>3</num> <ing>large egg yolks</ing></line>
+        <line n="4"><num>1</num> <ing>can evaporated milk</ing></line>
+        <line n="5"><num>1</num><unit type="measurement">teaspoon</unit> <ing>pure vanilla extract</ing></line>
+        <line n="6"><num>2</num> <unit type="measurement">cups</unit> <ing>sweetened shredded coconut</ing></line>
+        <line n="7"><num>1</num> <unit type="measurement">cup</unit> <ing>chopped pecans</ing></line>
+    </list>
+    
+    <list name="frosting">
+        <subHead>Frosting</subHead>
+        <line n="1">use this <link><ing>chocolate</ing> buttercream</link> for a naked-style cake</line>
+        <line n="2">use this <link><ing>chocolate</ing> buttercream</link> for frosting the top and sides</line>
+        <line n="3"><bold>optional for garnish:</bold> extra <ing>toasted pecans</ing> and <ing>sweetened shredded coconut</ing></line>
+    </list>
+    
+    <list name="instructions">
+        <subHead>Instructions</subHead>
+        <line n="1">Preheat oven to <num>350</num><unit type="temperature">°</unit>F. </line>
+        
+        <line n="2">Grease <num>three</num> <numDimension>9×2</numDimension> <unit type="measurement">inch</unit> cake pans, line with parchment paper, then grease the parchment paper. Parchment paper helps the cakes seamlessly release from the pans.</line>
+        
+        <line n="3">Make the cake: Whisk the <ing>flour, cocoa powder, sugar, baking soda, baking powder, salt, and espresso powder</ing> <sideNote>(if using)</sideNote> together in a large bowl. Set aside. </line>
+        
+        <line n="4">Using a handheld or stand mixer fitted with a whisk attachment <sideNote>(or you can use a whisk)</sideNote> mix the <ing>oil, eggs, sour cream, buttermilk, and vanilla</ing> together until combined. Pour the wet ingredients into the dry ingredients, add the <ing>hot water or coffee</ing>, and whisk or beat it all until the batter is completely combined.</line>
+        
+        <line n="5">Divide batter evenly between <num>3</num> pans. </line>
+        
+        <line n="6">Bake for <numRange>21-25</numRange> <unit type="time">minutes</unit>. Baking times vary, so keep an eye on yours. The cakes are done when a toothpick inserted in the center comes out clean.</line>
+        
+        <line n="7">Remove the cakes from the oven and set on a wire rack. Allow to cool completely in the pan.</line>
+        
+        <line n="8">As the cakes cool, prepare the <ing>coconut pecan</ing> filling so it can cool and be ready at the same time. Combine <ing>butter, brown sugar, egg yolks, and evaporated milk</ing> in a medium saucepan over medium heat. Whisk occasionally as the mixture comes to a low boil. Once boiling, whisk constantly until the mixture thickens, about <num>5</num><unit type="time"> minutes</unit>. Remove from heat and stir in <ing>vanilla, toasted pecans, and coconut</ing>. Allow to cool completely before layering in cake. It will thicken even more as it cools.</line>
+        
+        <line n="9">Assemble and frost: First, level the cakes if needed: using a large serrated knife, slice a thin layer off the tops of the cakes to create a flat surface. Discard <sideNote>(or crumble over ice cream!)</sideNote>. Place <num>1</num> cake layer on your cake stand or serving plate. Evenly cover the top with <num type="fraction">1/2</num> of the <ing>coconut pecan</ing> filling. Top with <num>2</num>nd layer and evenly cover the top with remaining <ing>coconut pecan</ing> filling. Top with the <num>third</num> cake layer. Spread the <ing>chocolate buttercream</ing> into a thick layer on top. Garnish with extra <ing>toasted pecans and coconut</ing>, if desired. Refrigerate for at least <num>45</num> <unit type="time">minutes</unit> before slicing or else the cake may gently fall apart as you cut.</line>
+        
+        <line n="10">Cover leftover cake tightly and store in the refrigerator for <num>5</num> <unit type="time">days</unit>.</line>
+    </list>
+</xml>
+
