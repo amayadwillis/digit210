@@ -1,10 +1,26 @@
-
-body {
-background-color: BurlyWood;
-color: indigo;
-font-family: arial, helvetica, sans-serif;
+h1
+{
+    color:forestgreen;
+    font-size: 17px;;
+    font-size: 50px;
+    font-family: "Palatino", serif;
+    text-align: center;
 }
-ol {list-style-type: lower-alpha;
-padding: 5em;
-    
+h3
+{
+    font-size: 25px;
+    font-family: "Palatino", serif;
+    text-align: center;
+}
+body
+{
+    background-color: floralwhite;
+    font-size: 17px;
+    text-align: center;
+}
+h4
+{
+    color:forestgreen;
+    text-align:left;
+    font-family: "Palatino", serif;
 }
