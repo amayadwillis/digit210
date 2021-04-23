@@ -6,8 +6,8 @@ words = disney.read()
 print(words)
 disneyWords = nlp(words)
 for token in disneyWords:
-     # if not token.is_punct:
-     if token.pos_ == "VERB":
+     # if token.pos_ == "VERB":
+     if token.pos_ == "NOUN":
         print(token.text, "---->", token.pos_, ":::::", token.lemma_)
 # for entity in disneyWords.ents:
 #     print(entity.text, entity.label_, spacy.explain(entity.label_))
